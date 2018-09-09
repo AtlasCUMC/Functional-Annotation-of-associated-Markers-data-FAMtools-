@@ -1,5 +1,5 @@
 # Functional-Annotation-of-associated-Markers-data-FAMtools-
-We delveloped a FAMTools, which a annoatate interested markers from GWAS based GTEx data https://gtexportal.org/home/.
+We delveloped a FAMTools; which annoatate a interested markers from GWAS based on GTEx data https://gtexportal.org/home/.
 
 ## Useful datbase
 
